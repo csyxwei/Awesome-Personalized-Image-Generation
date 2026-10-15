@@ -171,7 +171,7 @@ Arxiv 2025. / [PDF](https://arxiv.org/abs/2504.07960) / [Project](https://visual
 
 **FlexIP: Dynamic Control of Preservation and Personality for Customized Image Generation**<br>
 *Linyan Huang, Haonan Lin, Yanning Zhou, Kaiwen Xiao*<br>
-Arxiv 2025. / [PDF](https://arxiv.org/abs/2504.07405) / [Project](https://flexip-tech.github.io/flexip/#/) / [Code](https://github.com/yairshp/SISO)
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2504.07405) / [Project](https://flexip-tech.github.io/flexip/#/)
 
 **Transfer between Modalities with MetaQueries**<br>
 *Xichen Pan, Satya Narayan Shukla, Aashu Singh, Zhuokai Zhao, Shlok Kumar Mishra, Jialiang Wang, Zhiyang Xu, Jiuhai Chen, Kunpeng Li, Felix Juefei-Xu, Ji Hou, Saining Xie*<br>
@@ -199,7 +199,7 @@ Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.09277) / [Code](https://github.co
 
 **RealGeneral: Unifying Visual Generation via Temporal In-Context Learning with Video Models**<br>
 *Yijing Lin, Mengqi Huang, Shuhan Zhuang, Zhendong Mao*<br>
-Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.10406) / [Project](https://lyne1.github.io/RealGeneral/)
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.10406) / [Project](https://lyne1.github.io/realgeneral_web/)
 
 **OminiControl2: Efficient Conditioning for Diffusion Transformers**<br>
 *Zhenxiong Tan, Qiaochu Xue, Xingyi Yang, Songhua Liu, Xinchao Wang*<br>
@@ -406,7 +406,7 @@ Arxiv 2024.  / [PDF](https://arxiv.org/abs/2402.11849)
 NeurIPS 2024.  / [PDF](https://arxiv.org/abs/2402.12004)  / [Project](https://dco-t2i.github.io/)  / [Code](https://github.com/kyungmnlee/dco)
 
 **Instruct-Imagen: Image generation with multi-modal instruction**<br>
-*Hu, Hexiang and Chan, Kelvin CK and Su, Yu-Chuan and Chen, Wenhu and Li, Yandong and Sohn, Kihyuk and Zhao, Yang and Ben, Xue and Gong, Boqing and Cohen, William.*<br>
+*Hu, Hexiang and Chan, Kelvin CK and Su, Yu-Chuan and Chen, Wenhu and Li, Yandong and Sohn, Kihyuk and Zhao, Yang and Ben, Xue and Gong, Boqing and Cohen, William and Chang, Ming-Wei and Jia, Xuhui.*<br>
 CVPR 2024.  / [PDF](https://arxiv.org/abs/2401.01952)
 
 **Memory-Efficient Personalization using Quantized Diffusion Model**<br>
@@ -430,7 +430,7 @@ Arxiv 2024.  / [PDF](https://arxiv.org/abs/2401.13974)
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2401.15708)
 
 **Pick-and-draw: Training-free semantic guidance for text-to-image personalization**<br>
-*Lv, Henglei and Xiao, Jiayu and Li, Liang.*<br>
+*Lv, Henglei and Xiao, Jiayu and Li, Liang and Huang, Qingming.*<br>
 ACM MM 2024.  / [PDF](https://arxiv.org/abs/2401.16762)
 
 **Decoupled textual embeddings for customized image generation**<br>
@@ -539,7 +539,7 @@ SIGGRAPH Asia 2023.  / [PDF](https://arxiv.org/abs/2305.16311v2)  / [Project](ht
 
 **Blip-diffusion: Pre-trained subject representation for controllable text-to-image generation and editing**<br>
 *Li, Dongxu and Li, Junnan and Hoi, Steven.*<br>
-NeurIPS 2024.  / [PDF](https://arxiv.org/abs/2305.14720)  / [Project](https://dxli94.github.io/BLIP-Diffusion-website/)  / [Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)
+NeurIPS 2023.  / [PDF](https://arxiv.org/abs/2305.14720)  / [Project](https://dxli94.github.io/BLIP-Diffusion-website/)  / [Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)
 
 **Key-locked rank one editing for text-to-image personalization**<br>
 *Tewel, Yoad and Gal, Rinon and Chechik, Gal and Atzmon, Yuval.*<br>
@@ -717,7 +717,7 @@ FG 2025.  / [PDF](https://arxiv.org/abs/2504.07392) / [Code](https://github.com/
 
 **SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning**<br>
 *Xiaole Xian, Zhichao Liao, Qingyu Li, Wenyu Qin, Pengfei Wan, Weicheng Xie, Long Zeng, Linlin Shen, Pingfa Feng*<br>
-Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.00396) / [Project](https://tgre3w2.github.io/SPF-Protrait/)
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.00396) / [Project](https://spf-portrait.github.io/SPF-Portrait/)
 
 **Consistent Subject Generation via Contrastive Instantiated Concepts**<br>
 *Lee Hsin-Ying, Kelvin C.K. Chan, Ming-Hsuan Yang*<br>
@@ -748,7 +748,7 @@ Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.07091)  / [Code](https://github.
 Arxiv 2025.  / [PDF](https://arxiv.org/abs/2501.05823)  / [Code](https://github.com/JoyHuYY1412/PersonaHOI)
 
 **IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait**<br>
-*Yang, Han and Simsar, Enis and Anagnostidi, Sotiris and Zang, Yanlong and Hofmann, Thomas and Liu, Ziwei.*<br>
+*Yang, Han and Simsar, Enis and Anagnostidis, Sotiris and Zang, Yanlong and Hofmann, Thomas and Liu, Ziwei.*<br>
 Arxiv 2025.  / [PDF](https://arxiv.org/abs/2501.17159)
 
 **EmojiDiff: Advanced Facial Expression Control with High Identity Preservation in Portrait Generation**<br>
@@ -933,7 +933,7 @@ AAAI 2024.  / [PDF](https://arxiv.org/abs/2309.06895v2)
 
 **Hyperdreambooth: Hypernetworks for fast personalization of text-to-image models**<br>
 *Ruiz, Nataniel and Li, Yuanzhen and Jampani, Varun and Wei, Wei and Hou, Tingbo and Pritch, Yael and Wadhwa, Neal and Rubinstein, Michael and Aberman, Kfir.*<br>
-CVPR 2024.  / [PDF](https://arxiv.org/abs/2307.06949v2)  / [Project](HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models)
+CVPR 2024.  / [PDF](https://arxiv.org/abs/2307.06949v2)  / [Project](https://hyperdreambooth.github.io/)
 
 **Dreamidentity: Improved editability for efficient face-identity preserved image generation**<br>
 *Chen, Zhuowei and Fang, Shancheng and Liu, Wei and He, Qian and Huang, Mengqi and Zhang, Yongdong and Mao, Zhendong.*<br>
@@ -944,7 +944,7 @@ Arxiv 2023.  / [PDF](https://arxiv.org/abs/2307.00300)  / [Project](https://drea
 NeurIPS 2023.  / [PDF](https://arxiv.org/abs/2306.00926)  / [Project](https://celeb-basis.github.io/)  / [Code](https://github.com/ygtxr1997/CelebBasis)
 
 **Face0: Instantaneously conditioning a text-to-image model on a face**<br>
-*Valevski, Dani and Lumen, Danny and Matias, Yossi and Leviathan, Yaniv.*<br>
+*Valevski, Dani and Wasserman, Danny and Matias, Yossi and Leviathan, Yaniv.*<br>
 SIGGRAPH Asia 2023.  / [PDF](https://arxiv.org/abs/2306.06638)
 
 **Diffusion in diffusion: Cyclic one-way diffusion for text-vision-conditioned generation**<br>
@@ -1045,7 +1045,7 @@ Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.11051)
 
 **OmniStyle2: Scalable and High Quality Artistic Style Transfer Data Generation via Destylization**<br>
 *Ye Wang, Zili Yi, Yibo Zhang, Peng Zheng, Xuping Xie, Jiang Lin, Yilin Wang, Rui Ma*<br>
-CVPR 2025.  / [PDF](http://arxiv.org/abs/2509.05970) / [Code](https://github.com/StyleX-Research/OmniStyle)
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2509.05970) / [Code](https://github.com/StyleX-Research/OmniStyle2)
 
 **USO: Unified Style and Subject-Driven Generation via Disentangled and Reward Learning**<br>
 *Shaojin Wu, Mengqi Huang, Yufeng Cheng, Wenxu Wu, Jiahe Tian, Yiming Luo, Fei Ding, Qian He*<br>
@@ -1112,7 +1112,7 @@ Arxiv 2024.  / [PDF](https://arxiv.org/abs/2412.05148)
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2411.14793)  / [Project](https://stylefriendly.github.io/)
 
 **CSGO: Content-Style Composition in Text-to-Image Generation**<br>
-*Image, Style.*<br>
+*Xing, Peng and Wang, Haofan and Sun, Yanpeng and Wang, Qixun and Bai, Xu and Ai, Hao and Huang, Renyuan and Li, Zechao.*<br>
 OpenReview 2024.  / [PDF](https://openreview.net/forum?id=E3PgLQzPob)
 
 **FineStyle: Fine-grained Controllable Style Personalization for Text-to-image Models**<br>
@@ -1172,7 +1172,7 @@ ICTC 2023.  / [PDF](https://ieeexplore.ieee.org/abstract/document/10392676)
 IJCV 2024.  / [PDF](https://arxiv.org/abs/2309.01770v2)
 
 **Styledrop: Text-to-image generation in any style**<br>
-*Sohn, Kihyuk and Ruiz, Nataniel and Lee, Kimin and Chin, Daniel Castro and Blok, Irina and Chang, Huiwen and Barber, Jarred and Jiang, Lu and Entis, Glenn and Li, Yuanzhen.*<br>
+*Sohn, Kihyuk and Ruiz, Nataniel and Lee, Kimin and Chin, Daniel Castro and Blok, Irina and Chang, Huiwen and Barber, Jarred and Jiang, Lu and Entis, Glenn and Li, Yuanzhen and Hao, Yuan and Essa, Irfan and Rubinstein, Michael and Krishnan, Dilip.*<br>
 NeurIPS 2023.  / [PDF](https://arxiv.org/abs/2306.00983)  / [Project](https://styledrop.github.io/)
 
 **Inversion-based style transfer with diffusion models**<br>
@@ -1229,7 +1229,7 @@ Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.00542)
 
 **LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas**<br>
 *Guocheng Gordon Qian, Ruihang Zhang, Tsai-Shien Chen, Yusuf Dalva, Anujraaj Argo Goyal, Willi Menapace, Ivan Skorokhodov, Meng Dong, Arpit Sahni, Daniil Ostashev, Ju Hu, Sergey Tulyakov, Kuan-Chieh Jackson Wang*<br>
-Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.20820) / [Project](https://snap-research.github.io/layercomposer/)
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.20820) / [Project](https://snap-research.github.io/canvascomposer/)
 
 **Chimera: Compositional Image Generation using Part-based Concepting**<br>
 *Shivam Singh, Yiming Chen, Agneet Chatterjee, Amit Raj, James Hays, Yezhou Yang, Chitta Baral*<br>
@@ -1327,7 +1327,7 @@ Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.02160) / [Project](https://byted
 *Fernando Julio Cendra, Kai Han*<br>
 CVPR 2025.  / [PDF](https://arxiv.org/abs/2503.19902) / [Project](https://visual-ai.github.io/ice)
 
-**DynASyn: Multi-Subject Personalization Enabling Dynamic Action Synthesi**<br>
+**DynASyn: Multi-Subject Personalization Enabling Dynamic Action Synthesis**<br>
 *Yongjin Choi, Chanhun Park, Seung Jun Baek*<br>
 AAAI 2025.  / [PDF](https://arxiv.org/abs/2503.17728) 
 
@@ -1392,7 +1392,7 @@ Arxiv 2024.  / [PDF](https://arxiv.org/abs/2410.23280)  / [Project](https://shi-
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2409.08520)  / [Project](https://groundingbooth.github.io/)
 
 **MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance**<br>
-*Personalization, Single-subject.*<br>
+*Wang, Xierui and Fu, Siming and Huang, Qihan and He, Wanggui and Jiang, Hao.*<br>
 ICLR 2025.  / [PDF](https://openreview.net/forum?id=PJqP0wyQek)
 
 **Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis**<br>
@@ -1543,7 +1543,7 @@ Arxiv 2025. / [PDF](https://arxiv.org/abs/2505.04512) / [Project](https://hunyua
 
 **DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization**<br>
 *Wenchuan Wang, Mengqi Huang, Yijing Tu, Zhendong Mao*<br>
-Arxiv 2025. / [PDF](https://arxiv.org/abs/2505.02192) / [Project](https://wenc-k.github.io/dualreal/) 
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2505.02192) / [Project](https://wenc-k.github.io/dualreal-customization/)
 
 **Subject-driven Video Generation via Disentangled Identity and Motion**<br>
 *Daneul Kim, Jingxu Zhang, Wonjoon Jin, Sunghyun Cho, Qi Dai, Jaesik Park, Chong Luo*<br>
@@ -1715,11 +1715,11 @@ CVPR 2025.  / [PDF](https://arxiv.org/abs/2503.02187) / [Code](https://github.co
 
 **KV-Edit: Training-Free Image Editing for Precise Background Preservation**<br>
 *Tianrui Zhu, Shiyi Zhang, Jiawei Shao, Yansong Tang*<br>
-Arxiv 2025.  / [PDF](https://arxiv.org/abs/2502.17363)  / [Project](https://partedit.github.io/PartEdit/) 
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2502.17363)  / [Project](https://xilluill.github.io/projectpages/KV-Edit/) / [Code](https://github.com/Xilluill/KV-Edit)
 
 **PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models**<br>
 *Aleksandar Cvejic, Abdelrahman Eldesokey, Peter Wonka*<br>
-Arxiv 2025.  / [PDF](https://arxiv.org/abs/2502.04050)  / [Project](https://xilluill.github.io/projectpages/KV-Edit/) / [Code](https://github.com/Xilluill/KV-Edit)
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2502.04050)  / [Project](https://gorluxor.github.io/part-edit/) / [Code](https://github.com/Gorluxor/partedit)
 
 **Stable Flow: Vital Layers for Training-Free Image Editing**<br>
 *Avrahami, Omri and Patashnik, Or and Fried, Ohad and Nemchinov, Egor and Aberman, Kfir and Lischinski, Dani and Cohen-Or, Daniel.*<br>
@@ -1738,7 +1738,7 @@ CVPR 2025.  / [PDF](https://arxiv.org/abs/2411.15843)  / [Project](https://pengc
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2403.19645)  / [Project](https://gantastic.github.io/)
 
 **Ledits++: Limitless image editing using text-to-image models**<br>
-*Brack, Manuel and Friedrich, Felix and Kornmeier, Katharia and Tsaban, Linoy and Schramowski, Patrick and Kersting, Kristian and Passos, Apolinário.*<br>
+*Brack, Manuel and Friedrich, Felix and Kornmeier, Katharina and Tsaban, Linoy and Schramowski, Patrick and Kersting, Kristian and Passos, Apolinário.*<br>
 CVPR 2024.  / [PDF](https://arxiv.org/abs/2311.16711)  / [Project](https://leditsplusplus-project.static.hf.space/index.html)  / [Code](https://github.com/huggingface/diffusers/tree/main/src/diffusers/pipelines/ledits_pp)
 
 **An edit friendly ddpm noise space: Inversion and manipulations**<br>
@@ -1814,7 +1814,7 @@ Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.06256) / [Project](https://xiche
 
 **Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation**<br>
 *Jiwoo Chung, Sangeek Hyun, Hyunjun Kim, Eunseo Koh, MinKyu Lee, Jae-Pil Heo*<br>
-Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.02612)
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.02612) / [Code](https://github.com/jiwoogit/ARBooth)
 
 **ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**<br>
 *Runhui Huang, Chunwei Wang, Junwei Yang, Guansong Lu, Yunlong Yuan, Jianhua Han, Lu Hou, Wei Zhang, Lanqing Hong, Hengshuang Zhao, Hang Xu*<br>
@@ -1826,7 +1826,7 @@ Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.13436)
 
 **Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation**<br>
 *Yi Wu, Lingting Zhu, Lei Liu, Wandi Qiao, Ziqiang Li, Lequan Yu, Bin Li*<br>
-Arxiv 2025.  / [PDF](https://arxiv.org/pdf/2503.10125) / [Code](https://github.com/jiwoogit/ARBooth)
+Arxiv 2025.  / [PDF](https://arxiv.org/pdf/2503.10125)
 
 **ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance**<br>
 *Wang, Chunwei and Lu, Guansong and Yang, Junwei and Huang, Runhui and Han, Jianhua and Hou, Lu and Zhang, Wei and Xu, Hang.*<br>
@@ -1865,7 +1865,7 @@ Arxiv 2024.  / [PDF](https://arxiv.org/abs/2405.09818)
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2404.14396)  / [Code](https://github.com/AILab-CVC/SEED-X)
 
 **Generative multimodal models are in-context learners**<br>
-*Sun, Quan and Cui, Yufeng and Zhang, Xiaosong and Zhang, Fan and Yu, Qiying and Wang, Yueze and Rao, Yongming and Liu, Jingjing and Huang, Tiejun and Wang, Xinlong.*<br>
+*Sun, Quan and Cui, Yufeng and Zhang, Xiaosong and Zhang, Fan and Yu, Qiying and Luo, Zhengxiong and Wang, Yueze and Rao, Yongming and Liu, Jingjing and Huang, Tiejun and Wang, Xinlong.*<br>
 CVPR 2024.  / [PDF](https://arxiv.org/abs/2312.13286)  / [Project](https://baaivision.github.io/emu2/)  / [Code](https://github.com/baaivision/Emu)
 
 **Next-gpt: Any-to-any multimodal llm**<br>
@@ -1950,7 +1950,7 @@ CVPR 2020.  / [PDF](https://arxiv.org/abs/1911.11544v2)
 
 **Inverting layers of a large generator**<br>
 *Bau, David and Zhu, Jun-Yan and Wulff, Jonas and Peebles, William and Strobelt, Hendrik and Zhou, Bolei and Torralba, Antonio.*<br>
-ICLR 2019.  / [PDF](https://debug-ml-iclr2019.github.io/cameraready/DebugML-19_paper_18.pdf)
+ICLR 2019 Debugging Machine Learning Models Workshop.  / [PDF](https://debug-ml-iclr2019.github.io/cameraready/DebugML-19_paper_18.pdf)
 
 **Image2stylegan: How to embed images into the stylegan latent space?**<br>
 *Abdal, Rameen and Qin, Yipeng and Wonka, Peter.*<br>
@@ -1977,7 +1977,7 @@ ICLR 2017.  / [PDF](https://arxiv.org/abs/1702.04782)
 ECCV 2016.  / [PDF](https://arxiv.org/abs/1609.03552)  / [Project](https://www.cs.cmu.edu/~junyanz/projects/gvm)  / [Code](https://github.com/junyanz/iGAN)
 
 **Unsupervised representation learning with deep convolutional generative adversarial networks**<br>
-*Radford, Alec.*<br>
+*Radford, Alec and Metz, Luke and Chintala, Soumith.*<br>
 ICLR 2016.  / [PDF](https://arxiv.org/abs/1511.06434)
 
 ### Latent Editing
@@ -2000,7 +2000,7 @@ Arxiv 2023.  / [PDF](https://arxiv.org/abs/2312.11422)
 
 **Exploring Attribute Variations in Style-based GANs using Diffusion Models**<br>
 *Parihar, Rishubh and Balaji, Prasanna and Magazine, Raghav and Vora, Sarthak and Karmali, Tejan and Jampani, Varun and Babu, R Venkatesh.*<br>
-NeurIPS 2023.  / [PDF](https://arxiv.org/abs/2311.16052)
+NeurIPS 2023 Workshop on Diffusion Models.  / [PDF](https://arxiv.org/abs/2311.16052)
 
 **Revisiting Latent Space of GAN Inversion for Real Image Editing**<br>
 *Katsumata, Kai and Vo, Duc Minh and Liu, Bei and Nakayama, Hideki.*<br>
@@ -2036,7 +2036,7 @@ BMVC 2022.  / [PDF](https://arxiv.org/abs/2210.02347)  / [Code](https://github.c
 
 **CLIP-PAE: projection-augmentation embedding to extract relevant features for a disentangled, interpretable and controllable text-guided face manipulation**<br>
 *Zhou, Chenliang and Zhong, Fangcheng and Öztireli, Cengiz.*<br>
-SIGGRAPH 2023.  / [PDF](https://arxiv.org/abs/2210.03919)  / [Project](https://chenliang-zhou.github.io/CLIP-PAE)  / [Code](https://github.com/genforce/interfacegan)
+SIGGRAPH 2023.  / [PDF](https://arxiv.org/abs/2210.03919)  / [Project](https://chenliang-zhou.github.io/CLIP-PAE)  / [Code](https://github.com/Chenliang-Zhou/CLIP-PAE)
 
 **Rewriting geometric rules of a GAN.**<br>
 *Wang, Sheng-Yu and Bau, David and Zhu, Jun-Yan.*<br>
